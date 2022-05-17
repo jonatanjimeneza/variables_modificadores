@@ -14,6 +14,6 @@ Que vamos a explicar?
 
 4⃣ Practicando en REMIX IDE
 
-Youtube: 
+Youtube: https://www.youtube.com/watch?v=TFw2DSAriHU
 
 ![VARIABLES Y MOD INSTA](https://user-images.githubusercontent.com/101588200/168803464-5686c9d9-2fe7-4721-9e0b-53f78424b339.png)
